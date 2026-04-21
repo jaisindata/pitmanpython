@@ -1,0 +1,21 @@
+operators:
++,-,*,%,/,//
+
+unary operations:
+ex: +=,*= ...
+
+data types:
+type
+str
+int
+float
+complex
+bytes
+bytearray
+memoryview
+bool
+range
+list
+set
+tuple
+dict
