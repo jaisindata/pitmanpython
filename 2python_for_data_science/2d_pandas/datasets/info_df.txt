@@ -1,0 +1,4 @@
+country,capital,currency
+India,NewDelhi,Rupee
+England,London,Pound
+France,Paris,Franc
