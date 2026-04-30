@@ -1,0 +1,13 @@
+it_pyetlpdj_01_enus_02		Installing petl and Creating a Data Table
+it_pyetlpdj_01_enus_03		Reading Data from CSV Files in petl
+it_pyetlpdj_01_enus_04		Working with Structured and Semi-structured Data
+it_pyetlpdj_01_enus_05		Exporting Data from petl Using Templates
+it_pyetlpdj_01_enus_06		Performing Lookups in petl
+it_pyetlpdj_01_enus_07		Importing XML Data to petl
+it_pyetlpdj_01_enus_08		Formatting Data in petl and Exporting It to HTML
+it_pyetlpdj_01_enus_09		Working with JSON Data in petl
+it_pyetlpdj_01_enus_10		Exporting petl Data to Persistent File Formats
+it_pyetlpdj_01_enus_11		Importing Data from Microsoft Excel to petl 
+it_pyetlpdj_01_enus_12		Exporting Data from petl to Microsoft Excel
+it_pyetlpdj_01_enus_13		Importing SQL Tables to petl
+it_pyetlpdj_01_enus_14		Slicing and Dicing Data in a petl Table
