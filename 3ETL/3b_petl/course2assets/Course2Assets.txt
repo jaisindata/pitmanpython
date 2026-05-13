@@ -1,0 +1,10 @@
+it_pyetlpdj_02_enus_02		Creating Tables in petl from Python Data Sources
+it_pyetlpdj_02_enus_03		Performing Basic Transformations on Data in petl
+it_pyetlpdj_02_enus_04		Combining Data from Multiple Tables in petl
+it_pyetlpdj_02_enus_05		Inserting Rows and Columns in petl Data Tables
+it_pyetlpdj_02_enus_06		Implementing Replace and Type Change Operations
+it_pyetlpdj_02_enus_07		Replacing Values in petl Data Tables
+it_pyetlpdj_02_enus_08		Querying Data in petl Data Tables 
+it_pyetlpdj_02_enus_09		Filtering Data Based on Conditions in petl 
+it_pyetlpdj_02_enus_10		Defining Filters for Specific Fields in petl
+
